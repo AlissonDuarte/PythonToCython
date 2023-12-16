@@ -19,7 +19,7 @@ To get started with this repository:
 3. Explore the code examples and try running them to see the performance differences.
 4. Read the article for a deeper understanding of how and why these optimizations work.
 5. You can read the article here.
-  [Click here](link)
+  [Click here](https://dev.to/shahahaco/tuning-your-python-applications-with-cython-3p0i)
 ## Contributing
 
 We welcome contributions! If you have an optimization example or an improvement to the article, please feel free to fork the repository and submit a pull request.
